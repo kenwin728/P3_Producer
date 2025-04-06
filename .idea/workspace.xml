@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33b0654b-e176-4e34-9ab2-c7c982630248" name="Changes" comment="changed MANIFEST.MF location" />
+    <list default="true" id="33b0654b-e176-4e34-9ab2-c7c982630248" name="Changes" comment="deleted video files(just add your own videos)">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="P3_Producer" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,14 +63,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Users_Data/Kenwin/Desktop/Java Programming Files/P3_Producer/out/production/resources",
-    "project.structure.last.edited": "Artifacts",
+    "last_opened_file_path": "D:/Users_Data/Kenwin/Desktop/Java Programming Files/P3_Producer/video_folders/folder5",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users_Data\Kenwin\Desktop\Java Programming Files\P3_Producer\video_folders\folder5" />
+      <recent name="D:\Users_Data\Kenwin\Desktop\Java Programming Files\P3_Producer\video_folders\folder4" />
+      <recent name="D:\Users_Data\Kenwin\Desktop\Java Programming Files\P3_Producer\video_folders\folder3" />
       <recent name="D:\Users_Data\Kenwin\Desktop\Java Programming Files\P3_Producer\video_folders\folder2" />
       <recent name="D:\Users_Data\Kenwin\Desktop\Java Programming Files\P3_Producer\video_folders\folder1" />
     </key>
@@ -78,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1743825725576</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="deleted video files(just add your own videos)">
+      <created>1743827941423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743827941423</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="changed MANIFEST.MF location" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed MANIFEST.MF location" />
+    <MESSAGE value="deleted video files(just add your own videos)" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted video files(just add your own videos)" />
   </component>
 </project>
