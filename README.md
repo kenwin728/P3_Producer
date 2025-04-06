@@ -10,7 +10,7 @@
      ipconfig
      ```
      (Look for `IPv4 Address` under active connection. E.g. `192.168.3.128`)
-   - Use the same consumer port you entered after running P3_Consumer. (E.g. `8080`)
+   - For the consumer port, use the Listen Port you entered after running P3_Consumer. (E.g. `8080`)
    - Enter the video folder paths relative to the root directory of your project. (E.g. `video_folders/folder1`)
 4. **Stop The Program**
    - Program will automatically stop after uploading all the videos.
